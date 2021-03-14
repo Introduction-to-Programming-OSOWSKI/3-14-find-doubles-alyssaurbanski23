@@ -1,8 +1,4 @@
 def findDoubles(w):
-    if w * 2:
-        return True
-
-    else:
-        return False
-
-print (findDouble(potato))
+    if i in range(w + 1):
+        return w + 2
+print(findDoubles(moon))
